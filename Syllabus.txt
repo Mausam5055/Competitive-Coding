@@ -1,0 +1,41 @@
+Basic I/O, Operators"
+Decision making and Control structures
+Introduction to Algorithms
+Time & Space complexity-1.1
+Time & Space complexity-1.2
+Simple Sieve
+Segmented & Incremental Sieve
+Euler's phi Algorithm
+Strobogrammatic Number
+Remainder Theorem
+Toggle the switch & Alice Apple tree
+Binary Palindrome
+BOOTH'S ALGOITHM
+"Euclid's Algorithm"
+Karatsuba Algorithm
+Longest Sequence of 1 after flipping a bit
+Swap two nibbles in a byte
+Block Swap Algorithm
+Max product subarray
+Maximum sum of hour glass in matrix
+Max Equlibrium Sum
+Leaders in array
+Majority element
+Lexicographically first palindromic string
+Natural Sort order
+Quick, Selection Sort
+Weighted substring
+Move hyphen to beginning
+Manacher's Algorithm
+Sorted Unique Permutation
+Maneuvering
+Combination
+Josephus trap
+Maze Solving
+N Queens
+Warnsdorff’s Algorithm
+Hamiltonian Cycle
+Kruskal's Algorithm
+Activity Selection Problem
+Graph Coloring
+Huffman Coding
