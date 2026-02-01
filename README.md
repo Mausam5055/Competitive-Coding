@@ -89,6 +89,10 @@ Contributions are welcome! If you have a better solution or want to add a new pr
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## 👤 Author
+
+**Mausam Kar**
+
 ---
 
 _Happy Coding!_ 💻
