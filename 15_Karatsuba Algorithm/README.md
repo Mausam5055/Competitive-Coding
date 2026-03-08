@@ -40,36 +40,56 @@ Let $z_1 = (X_1 + X_0)(Y_1 + Y_0) - z_2 - z_0$
 ## 📝 Exam-Based MCQs
 
 **1. Karatsuba Algorithm is based on which design paradigm?**
-A) Greedy Approach
-B) Dynamic Programming
-C) Divide and Conquer
-D) Backtracking
-**Correct Answer: C**
+
+- A) Greedy Approach
+- B) Dynamic Programming
+- C) Divide and Conquer
+- D) Backtracking
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **2. What is the time complexity of the Karatsuba algorithm?**
-A) $O(n^2)$
-B) $O(n \log n)$
-C) $O(n^{1.585})$
-D) $O(n^3)$
-**Correct Answer: C**
+
+- A) $O(n^2)$
+- B) $O(n \log n)$
+- C) $O(n^{1.585})$
+- D) $O(n^3)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **3. Karatsuba algorithm reduces the number of recursive multiplications from 4 to:**
-A) 1
-B) 2
-C) 3
-D) 4
-**Correct Answer: C**
+
+- A) 1
+- B) 2
+- C) 3
+- D) 4
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **4. When should the Karatsuba algorithm be preferred over standard multiplication?**
-A) For very small numbers (1 digit)
-B) For extremely large numbers
-C) It is always slower than standard multiplication
-D) Only for even numbers
-**Correct Answer: B**
+
+- A) For very small numbers (1 digit)
+- B) For extremely large numbers
+- C) It is always slower than standard multiplication
+- D) Only for even numbers
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **5. What does the variable $z_1$ represent in Karatsuba's formula?**
-A) $X_1 Y_1$
-B) $X_0 Y_0$
-C) $X_1 Y_0 + X_0 Y_1$
-D) $X_1 + Y_1$
-**Correct Answer: C**
+
+- A) $X_1 Y_1$
+- B) $X_0 Y_0$
+- C) $X_1 Y_0 + X_0 Y_1$
+- D) $X_1 + Y_1$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>

@@ -32,36 +32,56 @@ The algorithm divides the array into two blocks $A = arr[0 \dots d-1]$ and $B = 
 ## 📝 Exam-Based MCQs
 
 **1. What is the goal of the Block Swap algorithm?**
-A) Sorting an array
-B) Rotating an array by $d$ elements
-C) Finding the maximum element
-D) Merging two arrays
-**Correct Answer: B**
+
+- A) Sorting an array
+- B) Rotating an array by $d$ elements
+- C) Finding the maximum element
+- D) Merging two arrays
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **2. What is the time complexity of the Block Swap algorithm?**
-A) $O(\log N)$
-B) $O(N)$
-C) $O(N^2)$
-D) $O(1)$
-**Correct Answer: B**
+
+- A) $O(\log N)$
+- B) $O(N)$
+- C) $O(N^2)$
+- D) $O(1)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **3. In rotation of array `[1, 2, 3, 4, 5]` by $d=2$, what is the result?**
-A) `[4, 5, 1, 2, 3]`
-B) `[3, 4, 5, 1, 2]`
-C) `[2, 3, 4, 5, 1]`
-D) `[5, 1, 2, 3, 4]`
-**Correct Answer: B**
+
+- A) `[4, 5, 1, 2, 3]`
+- B) `[3, 4, 5, 1, 2]`
+- C) `[2, 3, 4, 5, 1]`
+- D) `[5, 1, 2, 3, 4]`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **4. What is the space complexity of the Block Swap algorithm?**
-A) $O(N)$
-B) $O(\log N)$
-C) $O(1)$
-D) $O(N^2)$
-**Correct Answer: C**
+
+- A) $O(N)$
+- B) $O(\log N)$
+- C) $O(1)$
+- D) $O(N^2)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **5. Block swap algorithm is generally considered:**
-A) Slower than the Reversal algorithm
-B) More memory-intensive than others
-C) Very efficient for in-place array rotation
-D) Only applicable for even-sized arrays
-**Correct Answer: C**
+
+- A) Slower than the Reversal algorithm
+- B) More memory-intensive than others
+- C) Very efficient for in-place array rotation
+- D) Only applicable for even-sized arrays
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>

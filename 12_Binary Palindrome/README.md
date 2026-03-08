@@ -44,37 +44,55 @@ A number is a **Binary Palindrome** if its binary representation reads the same 
 
 ## 📝 Exam-Based MCQs
 
-**1. What is the binary representation of the decimal number 5?**
-A) `101`
-B) `110`
-C) `111`
-D) `011`
-**Correct Answer: A**
+**1. What is the binary representation of 9?**
 
-**2. Which of the following numbers is a binary palindrome?**
-A) 4 (`100`)
-B) 7 (`111`)
-C) 10 (`1010`)
-D) 6 (`110`)
-**Correct Answer: B**
+- A) `1010`
+- B) `1001`
+- C) `1100`
+- D) `1011`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
-**3. In bit manipulation, which operation is used to get the last bit of a number?**
-A) `n | 1`
-B) `n ^ 1`
-C) `n & 1`
-D) `n >> 1`
-**Correct Answer: C**
+**2. Is the number 9 a Binary Palindrome?**
 
-**4. What is the bitwise operation to shift bits to the left by 1 position?**
-A) `>> 1`
-B) `<< 1`
-C) `& 1`
-| D) `^ 1`
-**Correct Answer: B**
+- A) Yes
+- B) No
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: A (`1001` is same forwards and backwards)</b>
+</details>
 
-**5. What is the time complexity to check if a number's binary form is a palindrome?**
-A) $O(1)$
-B) $O(N)$
-C) $O(\log N)$
-D) $O(N^2)$
-**Correct Answer: C (where N is the input value)**
+**3. What is the binary of 10?**
+
+- A) `1010`
+- B) `0101`
+- C) `1111`
+- D) `1100`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: A</b>
+</details>
+
+**4. Which of these is a character sequence that is a palindrome?**
+
+- A) `racecar`
+- B) `hello`
+- C) `world`
+- D) `java`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: A</b>
+</details>
+
+**5. What is the time complexity to check if a number's binary is a palindrome?**
+
+- A) $O(1)$
+- B) $O(N)$ (where $N$ is value)
+- C) $O(\text{bits})$ or $O(\log \text{Value})$
+- D) $O(N^2)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>

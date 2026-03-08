@@ -46,36 +46,56 @@ Using Bitwise operators, we can extract and shift the nibbles:
 ## 📝 Exam-Based MCQs
 
 **1. How many bits are there in a "nibble"?**
-A) 8
-B) 2
-C) 4
-D) 16
-**Correct Answer: C**
+
+- A) 8
+- B) 2
+- C) 4
+- D) 16
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **2. Which hex value is used as a mask to extract the lower nibble of a byte?**
-A) `0xFF`
-B) `0x0F`
-C) `0xF0`
-D) `0xAA`
-**Correct Answer: B**
+
+- A) `0xFF`
+- B) `0x0F`
+- C) `0xF0`
+- D) `0xAA`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **3. What is the decimal value of the binary `0000 1111`?**
-A) 8
-B) 15
-C) 16
-D) 255
-**Correct Answer: B**
+
+- A) 8
+- B) 15
+- C) 16
+- D) 255
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **4. If we swap nibbles of `0001 0000` (16), what is the resulting binary?**
-A) `0000 0001`
-B) `1111 0000`
-C) `0001 0001`
-D) `1010 1010`
-**Correct Answer: A**
+
+- A) `0000 0001`
+- B) `1111 0000`
+- C) `0001 0001`
+- D) `1010 1010`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: A</b>
+</details>
 
 **5. Swap nibbles operation is mostly used in:**
-A) Sorting algorithms
-B) Graphics and Image Processing
-C) Low-level bit manipulation and data compression
-D) Database management
-**Correct Answer: C**
+
+- A) Sorting algorithms
+- B) Graphics and Image Processing
+- C) Low-level bit manipulation and data compression
+- D) Database management
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>

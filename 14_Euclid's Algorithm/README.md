@@ -43,36 +43,56 @@ This is useful for finding **Modular Multiplicative Inverse**.
 ## 📝 Exam-Based MCQs
 
 **1. What does the Euclid's Algorithm calculate?**
-A) Least Common Multiple (LCM)
-B) Greatest Common Divisor (GCD)
-C) Prime Factorization
-D) Square Root
-**Correct Answer: B**
+
+- A) Least Common Multiple (LCM)
+- B) Greatest Common Divisor (GCD)
+- C) Prime Factorization
+- D) Square Root
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **2. What is the time complexity of Euclid's Algorithm for two numbers $a$ and $b$?**
-A) $O(n)$
-B) $O(\sqrt{n})$
-C) $O(\log(\min(a, b)))$
-D) $O(1)$
-**Correct Answer: C**
+
+- A) $O(n)$
+- B) $O(\sqrt{n})$
+- C) $O(\log(\min(a, b)))$
+- D) $O(1)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **3. What is the GCD of 48 and 18?**
-A) 2
-B) 6
-C) 12
-D) 8
-**Correct Answer: B (48=18*2+12, 18=12*1+6, 12=6\*2+0)**
+
+- A) 2
+- B) 6
+- C) 12
+- D) 8
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B (48=18*2+12, 18=12*1+6, 12=6*2+0)</b>
+</details>
 
 **4. The Extended Euclid Algorithm is primarily used to find:**
-A) Modular Multiplicative Inverse
-B) Factorial of a number
-C) Power of a number
-D) Sorting order
-**Correct Answer: A**
+
+- A) Modular Multiplicative Inverse
+- B) Factorial of a number
+- C) Power of a number
+- D) Sorting order
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: A</b>
+</details>
 
 **5. If $GCD(a, b) = 1$, then $a$ and $b$ are said to be:**
-A) Even numbers
-B) Perfect squares
-C) Coprime (Relative Prime)
-D) Composite numbers
-**Correct Answer: C**
+
+- A) Even numbers
+- B) Perfect squares
+- C) Coprime (Relative Prime)
+- D) Composite numbers
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>

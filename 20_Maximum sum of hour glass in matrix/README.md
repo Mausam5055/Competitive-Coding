@@ -40,36 +40,56 @@ The goal is to find the maximum sum among all possible hourglasses in a given $R
 ## 📝 Exam-Based MCQs
 
 **1. What is the minimum size of a matrix required to form at least one hourglass?**
-A) $2 \times 2$
-B) $3 \times 3$
-C) $3 \times 2$
-D) $4 \times 4$
-**Correct Answer: B**
+
+- A) $2 \times 2$
+- B) $3 \times 3$
+- C) $3 \times 2$
+- D) $4 \times 4$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **2. How many elements are there in a single hourglass?**
-A) 9
-B) 5
-C) 7
-D) 6
-**Correct Answer: C (Top 3 + Middle 1 + Bottom 3)**
+
+- A) 9
+- B) 5
+- C) 7
+- D) 6
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C (Top 3 + Middle 1 + Bottom 3)</b>
+</details>
 
 **3. In a $6 \times 6$ matrix, how many hourglasses can be formed?**
-A) 36
-B) 16
-C) 9
-D) 25
-**Correct Answer: B ( $(6-2) \times (6-2) = 4 \times 4 = 16$ )**
+
+- A) 36
+- B) 16
+- C) 9
+- D) 25
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B ( $(6-2) \times (6-2) = 4 \times 4 = 16$ )</b>
+</details>
 
 **4. What is the time complexity of finding the maximum hourglass sum?**
-A) $O(R + C)$
-B) $O(R \times C)$
-C) $O(R^2)$
-D) $O(1)$
-**Correct Answer: B**
+
+- A) $O(R + C)$
+- B) $O(R \times C)$
+- C) $O(R^2)$
+- D) $O(1)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **5. Which of the following correctly represents the "neck" of the hourglass starting at `mat[i][j]`?**
-A) `mat[i][j]`
-B) `mat[i+1][j+1]`
-C) `mat[i+2][j+2]`
-D) `mat[i+1][j]`
-**Correct Answer: B**
+
+- A) `mat[i][j]`
+- B) `mat[i+1][j+1]`
+- C) `mat[i+2][j+2]`
+- D) `mat[i+1][j]`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
