@@ -94,3 +94,42 @@ do {
       }
   }
   ```
+
+---
+
+## 📝 Exam-Based MCQs
+
+**1. Which loop is guaranteed to execute at least once?**
+A) `for` loop
+B) `while` loop
+C) `do-while` loop
+D) None of the above
+**Correct Answer: C**
+
+**2. What does the `break` statement do?**
+A) Stops the current iteration and starts the next one.
+B) Exits the entire loop or switch block.
+C) Exits the entire program.
+D) Jumps to a specific label.
+**Correct Answer: B**
+
+**3. Which statement is used to skip the current iteration of a loop?**
+A) `break`
+B) `return`
+C) `continue`
+D) `exit`
+**Correct Answer: C**
+
+**4. In a `switch` statement, what happens if a `break` is missing?**
+A) Compile-time error
+B) Execution stops at the end of the case
+C) Execution "falls through" to the next case
+D) The default case is executed immediately
+**Correct Answer: C**
+
+**5. Which of the following is the correct syntax for an enhanced `for` loop to iterate over an array `arr`?**
+A) `for (int i=0; i<arr.length; i++)`
+B) `for (int x : arr)`
+C) `for (x in arr)`
+D) `foreach (int x : arr)`
+**Correct Answer: B**

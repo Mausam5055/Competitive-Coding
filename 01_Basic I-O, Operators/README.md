@@ -74,3 +74,42 @@ String line = sc.nextLine();// Read Line
 11. Logical AND `&&`
 12. Logical OR `||`
 13. Assignment `=` `+=` etc.
+
+---
+
+## 📝 Exam-Based MCQs
+
+**1. Which of the following is used to read a single word using the `Scanner` class?**
+A) `sc.nextLine()`
+B) `sc.next()`
+C) `sc.read()`
+D) `sc.nextWord()`
+**Correct Answer: B**
+
+**2. What is the value of `10 % 3`?**
+A) 3
+B) 0
+C) 1
+D) 3.33
+**Correct Answer: C**
+
+**3. Which operator has the highest precedence in Java?**
+A) `+`
+B) `*`
+C) `++` (Postfix)
+D) `==`
+**Correct Answer: C**
+
+**4. What does the `<<` operator do?**
+A) Right shift
+B) Unsigned right shift
+C) Left shift (Multiply by power of 2)
+D) Less than comparison
+**Correct Answer: C**
+
+**5. Which format specifier is used for floating-point numbers in `System.out.printf()`?**
+A) `%d`
+B) `%s`
+C) `%f`
+D) `%c`
+**Correct Answer: C**
