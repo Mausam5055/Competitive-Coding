@@ -80,36 +80,56 @@ String line = sc.nextLine();// Read Line
 ## 📝 Exam-Based MCQs
 
 **1. Which of the following is used to read a single word using the `Scanner` class?**
-A) `sc.nextLine()`
-B) `sc.next()`
-C) `sc.read()`
-D) `sc.nextWord()`
-**Correct Answer: B**
+
+- A) `sc.nextLine()`
+- B) `sc.next()`
+- C) `sc.read()`
+- D) `sc.nextWord()`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **2. What is the value of `10 % 3`?**
-A) 3
-B) 0
-C) 1
-D) 3.33
-**Correct Answer: C**
+
+- A) 3
+- B) 0
+- C) 1
+- D) 3.33
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **3. Which operator has the highest precedence in Java?**
-A) `+`
-B) `*`
-C) `++` (Postfix)
-D) `==`
-**Correct Answer: C**
+
+- A) `+`
+- B) `*`
+- C) `++` (Postfix)
+- D) `==`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **4. What does the `<<` operator do?**
-A) Right shift
-B) Unsigned right shift
-C) Left shift (Multiply by power of 2)
-D) Less than comparison
-**Correct Answer: C**
+
+- A) Right shift
+- B) Unsigned right shift
+- C) Left shift (Multiply by power of 2)
+- D) Less than comparison
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **5. Which format specifier is used for floating-point numbers in `System.out.printf()`?**
-A) `%d`
-B) `%s`
-C) `%f`
-D) `%c`
-**Correct Answer: C**
+
+- A) `%d`
+- B) `%s`
+- C) `%f`
+- D) `%c`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>

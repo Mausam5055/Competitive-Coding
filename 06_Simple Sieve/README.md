@@ -32,36 +32,56 @@ The **Sieve of Eratosthenes** is an ancient and efficient algorithm used to find
 ## 📝 Exam-Based MCQs
 
 **1. What is the time complexity of the Simple Sieve of Eratosthenes?**
-A) $O(N)$
-B) $O(N \log N)$
-C) $O(N \log \log N)$
-D) $O(N^2)$
-**Correct Answer: C**
+
+- A) $O(N)$
+- B) $O(N \log N)$
+- C) $O(N \log \log N)$
+- D) $O(N^2)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **2. Which optimization is commonly used in the inner loop of the Sieve?**
-A) Start marking multiples from $p + 1$
-B) Start marking multiples from $p^2$
-C) Start marking multiples from $2p$
-D) Marking only even numbers
-**Correct Answer: B**
+
+- A) Start marking multiples from $p + 1$
+- B) Start marking multiples from $p^2$
+- C) Start marking multiples from $2p$
+- D) Marking only even numbers
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **3. What is the space complexity of the Sieve of Eratosthenes to find primes up to $N$?**
-A) $O(1)$
-B) $O(\sqrt{N})$
-C) $O(N)$
-D) $O(\log N)$
-**Correct Answer: C**
+
+- A) $O(1)$
+- B) $O(\sqrt{N})$
+- C) $O(N)$
+- D) $O(\log N)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **4. Why do we stop the outer loop at $\sqrt{N}$?**
-A) Because there are no primes greater than $\sqrt{N}$
-B) Because all composite numbers will have at least one factor less than or equal to $\sqrt{N}$
-C) To make the algorithm $O(\sqrt{N})$
-D) Because $N$ is always a perfect square
-**Correct Answer: B**
+
+- A) Because there are no primes greater than $\sqrt{N}$
+- B) Because all composite numbers will have at least one factor less than or equal to $\sqrt{N}$
+- C) To make the algorithm $O(\sqrt{N})$
+- D) Because $N$ is always a perfect square
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **5. Sieve of Eratosthenes is used for which of the following?**
-A) Sorting an array
-B) Finding the shortest path in a graph
-C) Generating prime numbers efficiently
-D) Searching for an element in a binary tree
-**Correct Answer: C**
+
+- A) Sorting an array
+- B) Finding the shortest path in a graph
+- C) Generating prime numbers efficiently
+- D) Searching for an element in a binary tree
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>

@@ -20,6 +20,63 @@ We don't measure time in seconds (hardware dependent). We measure **Ops (Operati
 
 ---
 
+## 📝 Exam-Based MCQs
+
+**1. Which notation is used to represent the worst-case time complexity?**
+
+- A) Big Omega (Ω)
+- B) Big Theta (Θ)
+- C) Big O (O)
+- D) Little o (o)
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
+
+**2. If an algorithm has a time complexity of `O(N^2)`, what is it called?**
+
+- A) Linear
+- B) Logarithmic
+- C) Quadratic
+- D) Exponential
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
+
+**3. What is the time complexity of a loop that halves the input size in each iteration?**
+
+- A) `O(N)`
+- B) `O(log N)`
+- C) `O(N^2)`
+- D) `O(1)`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
+
+**4. Which of the following complexities is the most efficient for large N?**
+
+- A) `O(N!)`
+- B) `O(2^N)`
+- C) `O(N log N)`
+- D) `O(log N)`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: D</b>
+</details>
+
+**5. In Big O analysis, how is `3N^2 + 10N + 5` represented?**
+
+- A) `O(3N^2)`
+- B) `O(N^2)`
+- C) `O(N^2 + N)`
+- D) `O(N)`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
+
 ## 3. Common Time Complexities
 
 | Notation       | Name         | Example Algorithm   | Max N (approx) |

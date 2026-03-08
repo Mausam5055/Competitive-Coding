@@ -38,32 +38,6 @@ The **Segmented Sieve** is an optimization of the Simple Sieve. Instead of creat
 
 ## 📝 Exam-Based MCQs
 
-**1. What is the primary advantage of Segmented Sieve over Simple Sieve?**
-A) It is much faster in terms of time complexity.
-B) it reduces the space complexity from $O(N)$ to $O(\sqrt{N})$.
-C) It can only find even numbers.
-D) It doesn't require any prime numbers to start.
-**Correct Answer: B**
-
-**2. Which primes are needed to mark composite numbers in a segment up to $R$?**
-A) All primes up to $R/2$
-B) Only the first 10 primes
-C) All primes up to $\sqrt{R}$
-D) Only primes between $L$ and $R$
-**Correct Answer: C**
-
-**3. In a range query $[L, R]$, what is the size of the boolean array used in Segmented Sieve?**
-A) $R$
-B) $L$
-C) $R - L + 1$
-D) $\sqrt{R}$
-**Correct Answer: C**
-
-**4. Segmented Sieve is particularly useful when:**
-A) $N$ is very small.
-B) We want to find primes in a large range far away from zero.
-C) We have infinite memory.
-D) Time complexity is not a concern.
 **Correct Answer: B**
 
 **5. What is the space complexity of Segmented Sieve?**

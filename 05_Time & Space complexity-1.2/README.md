@@ -63,36 +63,56 @@ If N is...
 ## 📝 Exam-Based MCQs
 
 **1. What is the space complexity of an algorithm that creates an array of size N?**
-A) `O(1)`
-B) `O(log N)`
-C) `O(N)`
-D) `O(N^2)`
-**Correct Answer: C**
+
+- A) `O(1)`
+- B) `O(log N)`
+- C) `O(N)`
+- D) `O(N^2)`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **2. Recursive algorithms use which data structure for tracking function calls?**
-A) Queue
-B) Stack
-C) Linked List
-D) Tree
-**Correct Answer: B**
+
+- A) Queue
+- B) Stack
+- C) Linked List
+- D) Tree
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **3. Which case represents the "Average Case" complexity?**
-A) Big O (O)
-B) Big Omega (Ω)
-C) Big Theta (Θ)
-D) Little o (o)
-**Correct Answer: C**
+
+- A) Big O (O)
+- B) Big Omega (Ω)
+- C) Big Theta (Θ)
+- D) Little o (o)
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **4. If a recursive function `f(n)` calls itself until `n=0` with `f(n-1)`, what is its space complexity?**
-A) `O(1)`
-B) `O(N)`
-C) `O(log N)`
-D) `O(N^2)`
-**Correct Answer: B**
+
+- A) `O(1)`
+- B) `O(N)`
+- C) `O(log N)`
+- D) `O(N^2)`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **5. Constraint analysis: If N is 10^18, which complexity is likely required?**
-A) `O(N)`
-B) `O(N log N)`
-C) `O(log N)`
-D) `O(N^2)`
-**Correct Answer: C**
+
+- A) `O(N)`
+- B) `O(N log N)`
+- C) `O(log N)`
+- D) `O(N^2)`
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>

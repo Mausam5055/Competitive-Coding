@@ -41,35 +41,55 @@ A **Strobogrammatic Number** is a number that looks exactly the same when rotate
 
 ## 📝 Exam-Based MCQs
 
-**1. Which of the following digits remain the same when rotated 180 degrees?**
-A) 2
-B) 5
-C) 8
-D) 4
-**Correct Answer: C**
+**1. Which of the following digits remain unchanged when rotated 180 degrees?**
 
-**2. Is the number "96" strobogrammatic?**
-A) Yes
-B) No
-**Correct Answer: A (9 becomes 6, 6 becomes 9, so it stays 69 upside down? Wait, 96 upside down is 96.)**
+- A) 1, 2, 3
+- B) 0, 1, 8
+- C) 0, 6, 9
+- D) 2, 5, 8
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
-**3. What is the rotated version of the digit 6?**
-A) 6
-B) 9
-C) 8
-D) 0
-**Correct Answer: B**
+**2. What does a Strobogrammatic Number look like when rotated 180 degrees?**
 
-**4. Which of these is NOT a strobogrammatic number?**
-A) 11
-B) 69
-C) 818
-D) 22
-**Correct Answer: D**
+- A) It looks inverted.
+- B) It looks like a different number.
+- C) It looks exactly the same.
+- D) It becomes zero.
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
-**5. How many pointers are typically used in the efficient algorithm to check for a strobogrammatic number?**
-A) 1
-B) 2
-C) 3
-D) 4
-**Correct Answer: B**
+**3. Which pair of digits are Strobogrammatic reflections of each other?**
+
+- A) 2 and 5
+- B) 6 and 9
+- C) 3 and 4
+- D) 7 and 1
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
+
+**4. Is 619 a Strobogrammatic Number?**
+
+- A) Yes
+- B) No
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: A (6 becomes 9, 1 becomes 1, 9 becomes 6 -> 619 rotated is 619)</b>
+</details>
+
+**5. What is the time complexity to check if a number of $N$ digits is Strobogrammatic?**
+
+- A) $O(1)$
+- B) $O(N)$
+- C) $O(N^2)$
+- D) $O(\log N)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>

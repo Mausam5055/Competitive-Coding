@@ -53,36 +53,56 @@ Before writing code, we design it.
 ## 📝 Exam-Based MCQs
 
 **1. What is the fundamental formula for an algorithm?**
-A) Processing + Logic = Result
-B) Input + Algorithm = Output
-C) Data + Structure = Program
-D) Input + Output = Algorithm
-**Correct Answer: B**
+
+- A) Processing + Logic = Result
+- B) Input + Algorithm = Output
+- C) Data + Structure = Program
+- D) Input + Output = Algorithm
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
 **2. Which characteristic of an algorithm states that it must terminate after a certain number of steps?**
-A) Well-Defined
-B) Effective
-C) Finite
-D) Language Independent
-**Correct Answer: C**
+
+- A) Well-Defined
+- B) Effective
+- C) Finite
+- D) Language Independent
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **3. What is a "Brute Force" approach?**
-A) A highly optimized recursive strategy.
-B) Breaking a problem into sub-problems.
-C) Trying every possible solution to find the correct one.
-D) Storing previously computed results.
-**Correct Answer: C**
+
+- A) A highly optimized recursive strategy.
+- B) Breaking a problem into sub-problems.
+- C) Trying every possible solution to find the correct one.
+- D) Storing previously computed results.
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **4. Which of the following is a diagrammatic representation of an algorithm?**
-A) Pseudocode
-B) Class Diagram
-C) Flowchart
-D) Use Case Diagram
-**Correct Answer: C**
+
+- A) Pseudocode
+- B) Class Diagram
+- C) Flowchart
+- D) Use Case Diagram
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **5. In algorithm design, what should you do immediately after understanding the problem?**
-A) Write the code
-B) Analyze example cases and edge cases
-C) Submit the solution
-D) Optimize the time complexity
-**Correct Answer: B**
+
+- A) Write the code
+- B) Analyze example cases and edge cases
+- C) Submit the solution
+- D) Optimize the time complexity
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>

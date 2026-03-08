@@ -44,37 +44,57 @@ $$\phi(n) = n \left(1 - \frac{1}{p_1}\right) \left(1 - \frac{1}{p_2}\right) ... 
 
 ## 📝 Exam-Based MCQs
 
-**1. What does Euler's Totient Function $\phi(n)$ compute?**
-A) The number of divisors of $n$.
-B) The number of integers up to $n$ that are relatively prime to $n$.
-C) The sum of all prime factors of $n$.
-D) The prime factorization of $n$.
-**Correct Answer: B**
+**1. What does $\phi(n)$ represent?**
+
+- A) Sum of factors of $n$
+- B) Number of primes up to $n$
+- C) Number of integers up to $n$ that are coprime to $n$
+- D) Factorial of $n$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
 **2. What is the value of $\phi(7)$?**
-A) 1
-B) 6
-C) 7
-D) 0
-**Correct Answer: B (Since 7 is prime, $\phi(7) = 7-1 = 6$)**
 
-**3. If $p$ and $q$ are two distinct prime numbers, what is $\phi(p \cdot q)$?**
-A) $p \cdot q - 1$
-B) $(p-1)(q-1)$
-C) $p+q$
-D) $pq/2$
-**Correct Answer: B**
+- A) 7
+- B) 6
+- C) 5
+- D) 1
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B (Since 7 is prime, $\phi(7) = 7-1$)</b>
+</details>
 
-**4. What is the time complexity of the efficient algorithm to find $\phi(n)$?**
-A) $O(n)$
-B) $O(\log n)$
-C) $O(\sqrt{n})$
-D) $O(n^2)$
-**Correct Answer: C**
+**3. If $p$ is a prime number, $\phi(p^k)$ is equal to:**
 
-**5. Which of the following numbers is relatively prime to 10?**
-A) 2
-B) 5
-C) 3
-D) 6
-**Correct Answer: C (GCD(3, 10) = 1)**
+- A) $p^k - 1$
+- B) $p^k - p^{k-1}$
+- C) $p^{k-1}$
+- D) $p \times k$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
+
+**4. Euler's Totient function is a multiplicative function. If $gcd(a, b) = 1$, then $\phi(a \times b)$ is:**
+
+- A) $\phi(a) + \phi(b)$
+- B) $\phi(a) - \phi(b)$
+- C) $\phi(a) \times \phi(b)$
+- D) $\phi(a) / \phi(b)$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
+
+**5. What is the value of $\phi(10)$?**
+
+- A) 4
+- B) 5
+- C) 9
+- D) 2
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: A (Coprime numbers are 1, 3, 7, 9)</b>
+</details>

@@ -44,37 +44,57 @@ Where $n_1, n_2, ..., n_k$ are pairwise coprime.
 
 ## 📝 Exam-Based MCQs
 
-**1. What is the condition for the Chinese Remainder Theorem to have a unique solution?**
-A) All moduli must be prime.
-B) All moduli must be pairwise coprime.
-C) All remainders must be the same.
-D) The number of equations must be even.
-**Correct Answer: B**
+**1. What is the main requirement for the Chinese Remainder Theorem to be applicable?**
 
-**2. Which algorithm is commonly used to find the modular inverse in CRT?**
-A) Binary Search
-B) Extended Euclidean Algorithm
-C) Sieve of Eratosthenes
-D) Dijkstra's Algorithm
-**Correct Answer: B**
+- A) All remainders must be equal.
+- B) All moduli must be pairwise coprime.
+- C) Moduli must be prime numbers only.
+- D) The number of equations must be even.
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B</b>
+</details>
 
-**3. In CRT, if $n_1 = 3, n_2 = 5$, what is the product $N$?**
-A) 8
-B) 2
-C) 15
-D) 1
-**Correct Answer: C**
+**2. CRT is used to solve a system of:**
 
-**4. The Chinese Remainder Theorem provides a unique solution modulo:**
-A) $\text{max}(n_i)$
-B) $\sum n_i$
-C) $\prod n_i$
-D) $\text{min}(n_i)$
-**Correct Answer: C**
+- A) Linear equations
+- B) Quadratic equations
+- C) Simultaneous congruences
+- D) Differential equations
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
 
-**5. Solve: $x \equiv 2 \pmod 3$ and $x \equiv 3 \pmod 5$. The smallest positive $x$ is?**
-A) 5
-B) 8
-C) 11
-D) 14
-**Correct Answer: B (8 % 3 = 2, 8 % 5 = 3)**
+**3. Given $x \equiv 2 \pmod 3$ and $x \equiv 3 \pmod 5$, what is a possible value for $x$?**
+
+- A) 5
+- B) 8
+- C) 11
+- D) 13
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: B (8%3=2, 8%5=3)</b>
+</details>
+
+**4. The solution found by CRT is unique modulo:**
+
+- A) The largest modulus
+- B) The sum of moduli
+- C) The product of moduli
+- D) The average of moduli
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
+
+**5. In CRT, if $M = m_1 \times m_2 \times \dots \times m_n$, then $M_i$ is computed as:**
+
+- A) $M + m_i$
+- B) $M - m_i$
+- C) $M / m_i$
+- D) $M^{m_i}$
+<details>
+<summary><b>Check Answer</b></summary>
+<b>Correct Answer: C</b>
+</details>
